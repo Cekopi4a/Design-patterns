@@ -1,0 +1,15 @@
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\bin\Debug\net6.0\courseProject.exe
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\bin\Debug\net6.0\courseProject.deps.json
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\bin\Debug\net6.0\courseProject.runtimeconfig.json
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\bin\Debug\net6.0\courseProject.dll
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\bin\Debug\net6.0\courseProject.pdb
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\obj\Debug\net6.0\courseProject.csproj.AssemblyReference.cache
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\obj\Debug\net6.0\courseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\obj\Debug\net6.0\courseProject.AssemblyInfoInputs.cache
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\obj\Debug\net6.0\courseProject.AssemblyInfo.cs
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\obj\Debug\net6.0\courseProject.csproj.CoreCompileInputs.cache
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\obj\Debug\net6.0\courseProject.dll
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\obj\Debug\net6.0\refint\courseProject.dll
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\obj\Debug\net6.0\courseProject.pdb
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\obj\Debug\net6.0\courseProject.genruntimeconfig.cache
+D:\software engineering\вту софтуерно инженерство\2-ра година\4-ти семестър\Шаблони за софтуерен дизайн I част\упражнения\courseProject\courseProject\obj\Debug\net6.0\ref\courseProject.dll
